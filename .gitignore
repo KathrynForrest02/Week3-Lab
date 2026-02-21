@@ -7,3 +7,5 @@ flask-app/*.pyc
 =======
 venv/
 >>>>>>> 8c74803 (initial commit)
+DevOps.pem
+recipe/
